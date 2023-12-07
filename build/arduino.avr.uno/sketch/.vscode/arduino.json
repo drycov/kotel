@@ -1,0 +1,10 @@
+#line 1 "C:\\DEV\\kotel\\.vscode\\arduino.json"
+{
+    "board": "arduino:avr:nano",
+    "debugger": "jlink",
+    "sketch": "kotel.ino",
+    "output": "./build/arduino.avr.uno",
+    "port": "COM3",
+    "programmer": "arduinoisp",
+    "configuration": "cpu=atmega328old"
+}
